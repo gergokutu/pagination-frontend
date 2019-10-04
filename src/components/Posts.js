@@ -1,4 +1,4 @@
-// type racf and get the arrow func boilerplate
+// type 'racf' and get the arrow func boilerplate
 import React from 'react'
 
 const Posts = ({ posts, loading }) => {
